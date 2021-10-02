@@ -1,24 +1,24 @@
 [readmore]
-other = "Weiterlesen"
+other = "Читать далее"
 
 [translations]
-other="Übersetzungen"
+other="Переводы"
 
 [error404]
-other = "Es tut uns wirklich leid aber hier scheint es nichts zu geben."
+other = "Нам жаль, но эта страница не существует."
 
 [yourname]
-other = "Ihr Name"
+other = "Ваше имя"
 
 [youremail]
-other = "Ihre Email"
+other = "Ваш Email"
 
 [subject]
-other = "Betreff"
+other = "Тема письма"
 
 [yourmessage]
-other = "Ihre Nachricht"
+other = "Текст письма"
 
 [sendnow]
-other = "Abschicken"
+other = "Отправить"
 
